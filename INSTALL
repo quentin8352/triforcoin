@@ -1,0 +1,9 @@
+Building Triforcoin
+
+See doc/readme-qt.rst for instructions on building Triforcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Triforcoin.
+
+See doc/build-*.txt for instructions on building triforcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Triforcoin.
